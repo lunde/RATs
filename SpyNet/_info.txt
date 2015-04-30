@@ -1,0 +1,4 @@
+Updater.exe
+MD5 	bc27bcf8b1dd8688a7fd237f67374bae
+Detection ratio: 	29 / 57
+https://malwr.com/analysis/YjQyMzNjNDJjYWQ5NDI0Mzg3YWIzYjU5NmUwMDJmNTM/

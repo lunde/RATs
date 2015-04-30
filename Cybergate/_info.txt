@@ -1,0 +1,22 @@
+microsoft key generator (2010).rar
+MD5 02a45e7298744f4311789e1e2fc012db
+CyberGate RAT v1.0.7.5 joined with WGA Validation tool.
+Detection ratio: 	1 / 43
+https://www.virustotal.com/en/file/c55f04edbf5bddc56fe4d194eea10d58d0a7d2808c9dbc41a82404be7a225f75/analysis/1300193580/
+
+
+Windows 7 all versions Activator.exe
+MD5 777239ca88f8181aaa8acc5a75212a93
+Detection ratio: 	0 / 43
+RAT CyberGate v1.07.5
+https://www.virustotal.com/en/file/d239031662d1a9c1fd528b4caaf2b4c2d786b82b77f644d64cdc11addcdc170b/analysis/1300462240/
+
+multiplayer.exe
+Detection ratio: 	1 / 42
+MD5 4dc6442e420de4c668c0ef69392aebe3
+https://www.virustotal.com/en/file/a00d82721150c6c0ba6627960eece3886028608602fcc4c00a0502e098a86722/analysis/1301497906/
+
+mw2.exe
+Detection ratio: 	11 / 42
+MD5 368d5e67dc3588e21b7eddf3f550107c
+https://www.virustotal.com/en/file/8a1d662406fe6260694c6eef81eb04cd9716d3fdce3ce61845c7bd79c60f8dbe/analysis/1301663996/

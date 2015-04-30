@@ -1,0 +1,4 @@
+File name: 	sss.exe
+MD5 c7445b8299f003cd024fa4960208bffd
+Detection ratio: 	27 / 55
+https://www.virustotal.com/en/file/4c8ce67924b42fdcb0ce22f378c2b377b45dd9f8d485b712af124932c2d40584/analysis/

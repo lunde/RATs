@@ -1,0 +1,24 @@
+multi antivirur 2011.exe
+MD5 26a8bc1229dffbc2b0896ec36028e064
+Detection ratio: 	3 / 43
+https://www.virustotal.com/en/file/8b71c8e4bddef1b145b824365de43b2fe9b837a55b024448a578ef31bb334659/analysis/1305973611/
+
+s.exe
+MD5 938872e5101192e167ce915ca6d0581f
+Detection ratio: 	7 / 40
+https://www.virustotal.com/en/file/9891f579b33c457c7d2f49ab9df6021f0ce2e3584dfee392d3aa69c43be308aa/analysis/1305974483/
+
+235adfcc81bc3859f2a5a21c148d1cf6
+MD5 235adfcc81bc3859f2a5a21c148d1cf6
+Detection ratio: 	50 / 54
+https://www.virustotal.com/en/file/af1700dc9aeef79165ca0e95c526730f867525645eacd175bed0f99f509e1b73/analysis/
+
+Factura - Elelectronica 569831256-pdf..zip
+MD5 1b842c0ad7e8e40c56bcb4a8f0302b01
+Detection ratio: 	30 / 46
+https://www.virustotal.com/en/file/809c10ea35b486899d1b53a91ed18d397a4234622ca115c9261e5c4dd31f40dd/analysis/1367511564/
+
+ins.exe
+MD5 a3ba71dd23a6097f7eae264991a0f6ad
+Detection ratio: 	37 / 46
+https://www.virustotal.com/en/file/cf89f7d4c224feb26a8097f9f39bd4ff20c3c7701fa8f0718c6de603bf3f2eaa/analysis/1366939844/

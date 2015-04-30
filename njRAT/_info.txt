@@ -1,0 +1,13 @@
+Win32/Bladabindi
+
+njRAT.exe
+EnKSaR.HaCKeR.exe
+Detection ratio: 	42 / 57
+MD5 	0431311b5f024d6e66b90d59491f2563
+https://malwr.com/analysis/NDJiMjczNDU4M2QxNDAyM2JjMDk5ZDdhMTI4ODgyYTM/
+
+
+Bladabindi.exe
+Detection ratio: 	31 / 47
+MD5 5af0c48c88da182d337c60c0ba1f0dd067c93df6
+https://www.virustotal.com/en/file/e2dee10881ceafddf3fc8fbe16c4fc1b14898c52e34b985cd7b0ef7b531e38df/analysis/1369879627/

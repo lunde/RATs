@@ -1,0 +1,4 @@
+File name: 	12.exe
+Detection ratio: 	35 / 47
+MD5 810078e42516eb5b0f642bb139b3a344
+https://www.virustotal.com/en/file/36292e5b3ceed2c748c0a085f06b438e23bba0bb3b33140d37d1615d24bd3771/analysis/

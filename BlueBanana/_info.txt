@@ -1,0 +1,5 @@
+WARNING: THIS IS A JAVA RAT
+password: kernelmode.info
+BlueBanana.zip
+MD5 e09b48777f3d3c429cbb96864d6c57f7 
+https://www.virustotal.com/en/file/566745299f613cd3838189d102311bd5413fe8b03ecbce96613327045a870cec/analysis/1374130638/

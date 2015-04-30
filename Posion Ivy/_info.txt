@@ -1,0 +1,34 @@
+taskeng.exe
+MD5 f9f93e66125819cb5cafc83bb26bb460
+Detection ratio: 	14 / 42
+https://www.virustotal.com/en/file/45a86dc10fddd4bc351c63e6ba3459e8108db64249efded21abbb22f670fa662/analysis/1291409820/
+
+stub.exe
+MD5 b1c48ae253eed5d3da16386ba55aaf46
+Detection ratio: 	13 / 41
+https://www.virustotal.com/en/file/5591f41e7f4891bc038cd27099714e66af53253d0de2f9662c9ff39296f17c89/analysis/1304850984/
+
+PI_BUILDER.exe
+MD5 042fb265b95fb3899e388fd5ede646dd
+Detection ratio: 	35 / 43
+https://www.virustotal.com/en/file/ad1baa3396aab2e1ca176fb0f7dbf6b27c39f4b2eb1cc7309002ac96332c6c48/analysis/1318704502/
+
+dwnldr
+MD5 41314f2f914bc70cca19ed32a9e64178
+Detection ratio: 	38 / 45
+https://www.virustotal.com/en/file/111539349cd177f5180c34abcb6475bac45b3deed098cc1ee3aaf179d970d22b/analysis/
+
+Encoder.exe
+MD5 63bc43fb15cfd596894de8dc5e03e9e0
+Detection ratio: 	2 / 42
+https://www.virustotal.com/en/file/092f97ac8530ebb43a7b818b49eebdf462f4da5f959476da01c4f49fcaba2cca/analysis/1340016270/
+
+ebook.exe
+MD5 13c4083bdb893c8a0bd2930fa55962ca
+Detection ratio: 	22 / 46
+https://www.virustotal.com/en/file/c0c3ef8bee653f8880f6a4180561b27983d4e19e0bd2d83edb76243bce21f96b/analysis/1358592443/
+
+e08325cf45f1199600eab8c65cd54bc52578c8f67c1b331ca80fd28659922cc4.zip
+MD5 504a32e123194a298018129404a1374e
+Detection ratio: 	43 / 51
+https://www.virustotal.com/en/file/e08325cf45f1199600eab8c65cd54bc52578c8f67c1b331ca80fd28659922cc4/analysis/

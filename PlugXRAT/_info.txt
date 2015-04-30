@@ -1,0 +1,33 @@
+PlugX
+MD5 bd8b3efa012ee272cbed48d9627e606a
+Detection ratio: 	45 / 56
+https://www.virustotal.com/en/file/dc66624a43877388c367eba352e93e4edd1fdbb207b0ef6e2c44451f9ddfce5b/analysis/
+
+12d59477048b530ad04242c8c8849b283051e71e02e136829b6e4152d144d096
+Documents.exe
+MD5 	c48cdf2ce519307358ead3512e31f264
+https://malwr.com/analysis/NzYxOWJlYWU4NDkyNDRhNmEyN2I3OGFjYzdjYjJjNmM/
+
+4f7590d4268af785ccd289d634ff6074815e0835c9e6e45756d7b9f3c526b159
+v3.exe
+MD5 	4cd11a2596c130a0428b7360d2be2f64
+https://malwr.com/analysis/NmM4MzA5ZWI2OTdjNDE1MTk4N2NiZWZiZTUyZjdmMjg/
+
+abb466652a24d2525d0a348bca5e000a83272ed4a862cc545075801fd5ff5ad5
+DW20.exe
+MD5 	2ff2d518313475a612f095dd863c8aea
+https://malwr.com/analysis/Y2E3YmZkMTA4NWZiNDlkNWIzMDMxOWU2M2FmYjJlNmY/
+
+ba3820680c68a35a4b15ed6353da82f64ea37cd8ab541862639f1ce3e7f97c58
+RasTls.exe
+MD5 	855f9cf0cac91c50cfc3160bc8e905b9
+https://malwr.com/analysis/MzU0YjM4NzhmMzA1NDkyYWExMjBkNzFlNGQxOWFlZWE/
+
+3439b053cd9ffce2f37ef72d5fcfb82ae3175896fbb0635783a6c08239cd0e26
+MD5 	bef754d1920cd338a8c235c6afff442b
+https://malwr.com/analysis/ZTc3NzFkMWU3MTU3NDUzZGFhM2QxZDg0M2IwNDc5OTY/
+
+131c6b4402d64bfce376b4eee3d0804a192c00f83bcbb551f5c30a8ab34d21fa
+re500.zip
+MD5 	90ac9d9b8840cb7b17d2fbb7ee91cdac
+https://malwr.com/analysis/ODQwZGE1ZTJiODRjNDQ2MTlkZGEzMGM1ZGVkNTAxMGU/

@@ -1,0 +1,14 @@
+http://en.wikipedia.org/wiki/Ghost_Rat
+
+
+SHA1 6da77e2077ce9132dbf2e944265443138326b7ab
+
+
+
+
+7f1bfbcc10576a23b800dbd15576aa55  ii9900.exe    (bot)
+https://malwr.com/analysis/YWQ1YWNlNjhjZDk2NGYzNjg1YjAxYjVkYmIyMmVmNDY/
+
+
+c97f3c932bf6bec7cd8944a023e4f433  S667.exe    (bot)
+63ca90f97c4c45d3f03c701085afa52c  Serve.dat   (bot)
